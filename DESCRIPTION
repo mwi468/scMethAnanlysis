@@ -1,0 +1,20 @@
+Package: SCmeth
+Type: Package
+Title: Analysis of scMethyltaion data 
+Version: 0.1.0
+Author: Waleed Iqbal
+Maintainer: Waleed Iqbal <wi24@drexel.edut>
+Description: scMethylation Analysis Functions. example dataset used from
+License: GPL-3
+Encoding: UTF-8
+Imports:
+  PDclust,
+  devtools,
+  dplyr,
+  gridExtra,
+  openxlsx,
+  parallel,
+  tidyverse,
+  pheatmap
+LazyData: true
+RoxygenNote: 7.1.2
